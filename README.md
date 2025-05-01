@@ -90,7 +90,7 @@ Text:
 ## Dify Setup Steps
 
 1. Go to [Dify Studio] and click **Create App**.
-2. Select a **Chat App**, choose the model (e.g., `gpt-3.5-turbo` or `gpt-4o-mini`), and paste the **Prompt Template** above.
+2. Select a **Chat App**, choose the model (e.g., `gpt-3.5-turbo` or `gpt-4`), and paste the **Prompt Template** above.
 3. Enable **API access** for your app.
 4. Copy your App's **API Key** and **API Endpoint URL**, then add them to your `.env` file:
 
