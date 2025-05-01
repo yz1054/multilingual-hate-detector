@@ -22,8 +22,8 @@ This is a multilingual hate speech detection tool that:
 
 1. **Clone the repo**  
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/yz1054/multilingual-hate-detector.git
+cd multilingual-hate-detector
 ```
 
 2. **Install dependencies**  
