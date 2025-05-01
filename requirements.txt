@@ -1,0 +1,7 @@
+
+streamlit
+requests
+python-docx
+PyMuPDF
+langdetect
+markupsafe
